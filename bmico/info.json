@@ -1,6 +1,6 @@
 {
     "name": "BMI Calculator",
-    "authors": ["NightStars (nightstars.)"],
+    "author": ["NightStars (nightstars.)"],
     "version": "1.0.0",
     "description": "A simple cog to calculate Body Mass Index (BMI). and determine weight category.",
     "requirements": [],
