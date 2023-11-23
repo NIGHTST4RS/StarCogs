@@ -35,6 +35,3 @@ class BMICo(commands.Cog):
             category = "obesity"
 
         await ctx.send(f"Your BMI is: {bmi_value:.2f}, which is {category}.")
-
-def setup(bot):
-    bot.add_cog(BMICo(bot))
