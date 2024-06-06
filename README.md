@@ -1,14 +1,17 @@
 # Star's Cogs
-## Cogs for Discord's [Red-Bot](https://github.com/NightStar-s/StarCogs)
+## Cogs for Discord's [RedBot](https://github.com/Cog-Creators/Red-DiscordBot)
+
+Install guide:
+
+`[p]repo add StarCogs https://github.com/NightStar-s/StarCogs`
+
+Then:
+
+`[p]cog install StarCogs TheCog`
 
 
 Thank you for visiting my github.
 
-
-#### Leveler
-Based off of [Malarne's](https://github.com/Malarne/discord_cogs) cog. Has some edits, bug fixes and reduces the starting EXP. Also cleaned up the code a bit.
-
--
 
 #### BMICo
 A simple cog to calculate Body Mass Index (BMI). and determine weight category.
