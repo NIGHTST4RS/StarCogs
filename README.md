@@ -10,8 +10,9 @@ Then:
 `[p]cog install StarCogs TheCog`
 
 
-Thank you for visiting my github.
+Thank you for visiting my github! Anything, you can always contact me here or through my website or my Discord nightstars. (NightStars#4010)
 
 
 #### BMICo
+
 A simple cog to calculate Body Mass Index (BMI). and determine weight category.
