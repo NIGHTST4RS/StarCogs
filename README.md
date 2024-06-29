@@ -3,7 +3,7 @@
 
 Install guide:
 
-`[p]repo add StarCogs https://github.com/NightStar-s/StarCogs`
+`[p]repo add StarCogs https://github.com/NIGHTST4RS/StarCogs`
 
 Then:
 
